@@ -1,9 +1,3 @@
-## Inquiries & Code Access
-**Due to privacy and intellectual property considerations related to academic coursework, the full source code (R scripts and .nb notebooks) and the comprehensive Spanish report (PDF) are hosted in a secure private repository.
-Verified academic supervisors and recruiters may request access via the contact information provided in my GitHub Profile Bio or by opening a GitHub Issue in this repository.**
-
-![Contact me](contact.png)
-
 # High-Performance-Spam-Detection-via-Weighted-Stacking-Ensembles
 
 ## Executive Summary
@@ -11,6 +5,13 @@ Verified academic supervisors and recruiters may request access via the contact 
 This project focuses on the automated classification of email spam using the Spambase dataset (UCI Machine Learning Repository). The core objective was to develop a robust filtering system by applying advanced Exploratory Data Analysis (EDA), dimensionality reduction, and a Meta-learning (Stacking) approach to outperform individual classification models.
 
 The final architecture achieved a 96.45% Accuracy and a 97% F1-Score, demonstrating the efficiency of weighted ensembles in complex binary classification tasks.
+
+## Inquiries & Code Access
+
+**Due to privacy and intellectual property considerations related to academic coursework, the full source code (R scripts and .nb notebooks) and the comprehensive Spanish report (PDF) are hosted in a secure private repository.
+Verified academic supervisors and recruiters may request access via the contact information provided in my GitHub Profile Bio or by opening a GitHub Issue in this repository.**
+
+![Contact me](contact.png)
 
 ## Key Technical Highlights
 - Advanced Statistical Profiling: Conducted exhaustive EDA focusing on Skewness and Kurtosis to identify non-normal distributions and data bias.
