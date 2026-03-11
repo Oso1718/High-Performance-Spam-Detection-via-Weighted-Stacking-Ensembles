@@ -104,7 +104,11 @@ ANN - 30%
 ![Confusion matrices](3.png)
 
 - ROC curves for model comparison
-![ROC curve](4.png)
+![ROC curve_NaiveBayes](naivebayes.jpeg)
+![ROC curve_SMV](SVM.jpeg)
+![ROC curve_RandomForest](randomforest.jpeg)
+![ROC curve_LogisticRegresion](logisticr.jpeg)
+![ROC curve_NeuralNetwork](neuralnetwork.jpeg)
 
 ## Results
 ```
