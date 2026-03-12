@@ -94,14 +94,15 @@ ANN - 30%
 
 ## Visualizations
 
-- Feature distribution analysis
-![Feature Distribution](1.png)
-
 - PCA projection of the dataset
-![PCA](2.png)
+![PCA Components](PCA_components.jpeg)
+![Varianza](varianza.jpeg)
+![PCA Proyeccion datos](Proyeccion_datos.jpeg)
 
-- Confusion matrices for each model
-![Confusion matrices](3.png)
+- Stathistics of each model comparison
+![Individual models](individual_models.jpeg)
+![Stacking](stacking.jpeg)
+![Stacking no Neural Network](Stacking_noNN.jpeg)
 
 - ROC curves for model comparison
 ![ROC curve_NaiveBayes](naivebayes.jpeg)
